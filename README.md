@@ -6,7 +6,7 @@ Essa aplicação foi criada com o objetivo de exercitar conceitos de REST API, N
 
 #
 
-## **Funcionalidades**
+## **Serviços**
 
 **POST:** /users
 
